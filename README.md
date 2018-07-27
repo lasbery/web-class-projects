@@ -1,5 +1,6 @@
 # web-class-projects
 #Design Repo for my Web Class teaching
+
 #Note
 
 1. Change the current Navigation Menus to: HOME | ABOUT ME | CONTACT ME | MY WEB JOURNEY
@@ -10,5 +11,7 @@
 6. Good luck
 
 Best regards
+
 Christian Lasbery
+
 Software Developer | UI/UX Designer
